@@ -1,0 +1,3 @@
+used a virtual env
+to activate .\venv\Scripts\activate
+then install: pip install tensorflow matplotlib numpy pandas
